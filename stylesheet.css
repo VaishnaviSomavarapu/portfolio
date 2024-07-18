@@ -1000,7 +1000,7 @@ section,
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
+  font-style: normal;
   margin: 0 15px 15px 15px;
   padding: 20px;
   background-color: var(--surface-color);
