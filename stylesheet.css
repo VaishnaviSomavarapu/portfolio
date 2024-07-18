@@ -690,7 +690,7 @@ section,
 .skills .progress {
   height: 60px;
   display: block;
-  background: #ffffff;
+  background: none;
   border-radius: 0;
 }
 
